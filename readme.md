@@ -1,6 +1,6 @@
 # eliisev2
 
-![eliisev2](imgur.com image replace me!)
+![eliisev2](eliise.jpg)
 
 *A short description of the keyboard/project*
 
