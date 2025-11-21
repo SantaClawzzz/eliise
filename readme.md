@@ -12,7 +12,7 @@ Total of 93 keys but has all functions (second layer TBA)
 
 * Keyboard Maintainer: [Kirito](https://github.com/SantaClawzzz)
 * Hardware Supported: [Raspberry PI PICO (RP2040)](https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008307-DS-1-pico-datasheet.pdf?disposition=inline)
-* Hardware Availability: https://www.aliexpress.com/item/1005006087823796.html?spm=a2g0o.order_list.order_list_main.5.1d50a396ZgAemG
+* Hardware Availability:[Aliexpress](https://www.aliexpress.com/item/1005006087823796.html?spm=a2g0o.order_list.order_list_main.5.1d50a396ZgAemG)
 
 
 ### Compile
