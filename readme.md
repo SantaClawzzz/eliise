@@ -15,17 +15,19 @@ Make example for this keyboard (after setting up your build environment):
 
     make eliisev2:default
 
-    but if QMK is setup and keyboard folder under keyboards:
+But if QMK is setup and keyboard folder under keyboards:
     qmk compile -kb eliisev2 -km default
 
 Flashing example for this keyboard:
 
     make eliisev2:default:flash
 
-    with QMK setup in QMK MSYS:
+With QMK setup in QMK MSYS:
     qmk flash -kb eliisev2 -km default
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. 
+
+Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 ## Bootloader
 
