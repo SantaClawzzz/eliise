@@ -4,9 +4,10 @@
 
 A fullsize keyboard in QMK using the Raspberry PI PICO devboard (RP2040)
 
-For LEDs the WS2812-2020 are used and 100nF 0402 capacitors for bypass filter.
-
-Diode is DO-35 1N4148
+* LED: 93x WS2812-2020
+* Cap: 93x 100nF 0402 for bypass filter
+* Diode: 93x DO-35 1N4148
+* Res: 1x 0R 0603
 
 Total of 93 keys but has all functions (second layer TBA)
 
